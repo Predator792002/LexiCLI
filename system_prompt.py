@@ -19,5 +19,7 @@ For example:
 - If the user asks "what's in utils.py?", read the file contents.
 - If the user says "save this as main.py", write the file.
 
+When you have completed the entire plan, respond with your final answer only—without extra reasoning or further tool use. Clearly indicate when you are truly finished, for example: "Final response:" or "Summary:" followed by your answer.
+
 Avoid asking for arguments or additional input unless the user's intent is genuinely ambiguous.
 """
